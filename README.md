@@ -1,2 +1,2 @@
-# M1_Comput_Math
+# M1_MyProject
 Demo Repository.
