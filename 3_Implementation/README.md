@@ -6,8 +6,8 @@
 | Folder | Description |
 | ------ | ------ |
 | inc | All headers files |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| src | Main source code |
+| unity | All unity files] |
+| test | All source code and data for testing purpose |
+| build | Build output (not included in git)] |
+
