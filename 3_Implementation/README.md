@@ -5,7 +5,7 @@
 
 | Folder | Description |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| inc | All headers files |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
