@@ -2,9 +2,9 @@
 
 ## Folder Structure
 
-|Folder| |Description|
-|--------|------------|
-|inc||All headers files|
+| Folder | | Description |
+| -------- | ------------ |
+| inc | All headers files |
 
 | Plugin | README |
 | ------ | ------ |
