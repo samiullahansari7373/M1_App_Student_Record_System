@@ -2,11 +2,8 @@
 
 ## Folder Structure
 
-| Folder | | Description |
-| -------- | ------------ |
-| inc | All headers files |
 
-| Plugin | README |
+| Folder | Description |
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
 | GitHub | [plugins/github/README.md][PlGh] |
