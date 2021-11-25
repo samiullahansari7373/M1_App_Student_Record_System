@@ -26,12 +26,12 @@
 ### Strengths
 * Saves Time
 *  Automatic Calculations
-*  No chance of errors in calculations of inputs are right
+*  No chance of errors in students data
 *  Feature to add new students
 ###  Weaknesses
 *  Cannot perform new advanced tasks
 ### Opportunities
-* Can be implemented in any type of store or shops
+* Can be implemented in any type of school, college and institution.
 ### Threats
 * Other Similar Applications
 
