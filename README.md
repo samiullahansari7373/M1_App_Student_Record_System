@@ -4,7 +4,7 @@ Student records system implemented in C .
 <br>
 It is a menu-driven terminal-based application to perform various operations on student records.
 
-It is a menu-driven terminal-based application to perform various operations on student records.
+
 ---
 # Features of Student Record System
 Simple functions have been to manipulate data structure and file handling, so here I will just list the features of this project.
