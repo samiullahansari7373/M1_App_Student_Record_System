@@ -1,8 +1,10 @@
 # M1_App_Student_Record_System
 
-Student records system implemented in C .
+Student record management system is designed to help manage the daily school activities of recording and maintaining by automating it. It is also known as the student information system (SIS) or school records system (SRS). 
 <br>
-It is a menu-driven terminal-based application to perform various operations on student records.
+The system is equipped with a robust set of features like attendance tracking, library management, parents portal, etc. These tools help in managing the institute efficiently and accurately. In other words, it saves time, cut fees loss, and other wastages. 
+<br>
+You will find both free and paid version of the higher education software for students on the market. We have listed out the best eight student record management system for you to choose from. 
 
 
 ---
