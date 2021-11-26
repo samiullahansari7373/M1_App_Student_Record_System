@@ -29,9 +29,4 @@
 6 Clean all executable files by the following command : make clean
 <br>
 
-# Badges
-<hr>
 
-|C/C++ CI | Cpp Check | Codacy Badge | unit testing | Valgrind |
-|---------| ----------| -------------| -------------|----------|
-| | | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/48e97228eec34f17968278cafcd75d2b)](https://www.codacy.com/gh/samiullahansari7373/M1_App_Student_Record_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=samiullahansari7373/M1_App_Student_Record_System&amp;utm_campaign=Badge_Grade) | | |
